@@ -1,0 +1,1 @@
+fun main(){ println("Kotlin service running") }

@@ -1,0 +1,1 @@
+SELECT 'SQL service running';
